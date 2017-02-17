@@ -23,6 +23,8 @@ Date: 2/17/21017
 * Redundancy  
 * Free Chlorine vs Total Chlorine  
 * SCADA System  
+* General Expectations of Operator  
+* Recordkeeping  
 
 ## Tasks
 
@@ -120,7 +122,8 @@ Date: 2/17/21017
 ## North Shore Water Commission  
 
 * Commission Meetings
-* Employee Handbook  
+* Employee Handbook   
+* On Call  
 * Wiki  
 * Journal  
 * Git Lab  

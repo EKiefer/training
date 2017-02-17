@@ -18,3 +18,7 @@ Training will be broken into modules. Training will be given via verbal instruct
 ## Modules
 
 [You can find the modules here.](/modules.md)
+
+## Problems / Updates
+
+If you see something that needs to be revised, please let somebody know. After you create an account at [github](http://github.com), you can create an [issue](https://github.com/EKiefer/training/issues). This documentation is located [here](https://github.com/EKiefer/training/tree/master/docs). All of the files are written in "markdown" and have the ".md" file extension.

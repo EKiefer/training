@@ -1,5 +1,10 @@
+repo_url: https://github.com/EKiefer/training
+remote_branch: gh-pages
+site_url: https://ekiefer.github.io/training
+site_author: Eric Kiefer
 site_name: NSWC Training
 theme: material
+theme_dir: theme
 markdown_extensions:
   - admonition:
   - toc:
