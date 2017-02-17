@@ -1,0 +1,9 @@
+site_name: NSWC Training
+theme: material
+markdown_extensions:
+  - admonition:
+  - toc:
+pages:
+  - Home: index.md
+  - Modules: modules.md
+  - About: about.md
