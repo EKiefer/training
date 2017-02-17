@@ -27,38 +27,68 @@
         },
         {
             "location": "/modules/",
-            "text": "General Concepts\n\n\n\n\nOperator Math  \n\n\nOperator Chemistry  \n\n\nOperator Microbiology  \n\n\nFilling and Draining Tanks  \n\n\nFlow Rates  \n\n\nCoagulation  \n\n\nFlocculation  \n\n\nDisinfection with Chlorine  \n\n\nDisinfection with UV  \n\n\nPressure  \n\n\nPressure Transmitter  \n\n\nChemical Feed Pump  \n\n\nVertical Turbine Pump  \n\n\nCentrifugal Pump  \n\n\nWater Quality\n\n\n\n\nTasks\n\n\n\n\nRound\n\n\nDistribution Samples\n\n\nJanitorial\n\n\n\n\nFilter Specific\n\n\n\n\nPreparing Filter to Operate\n\n\nTurning Off Filter  \n\n\nBackwashing Filter  \n\n\n\n\nCompliance Monitoring\n\n\n\n\nTotal Coliform Rule\n\n\nFilter Backwash Rule  \n\n\nLead and Copper Rule  \n\n\nArsenic Rule  \n\n\nInterim Enhanced Surface Water Rule  \n\n\nLong Term 1 Enhanced Surface Water Treatment Rule  \n\n\nLong Term 2 Enhanced Surface Water Treatment Rule   \n\n\nStage 2 Disinfectants and Disinfection Byproducts Rule  \n\n\nWisconsin Department of Natural Resources  \n\n\n\n\nLab Specific Tasks\n\n\n\n\nMaking Agar  \n\n\nAutoclave Waste  \n\n\nColilert Sample - Municipal Clients  \n\n\nColilert Sample - Private Client  \n\n\nFluoride Samples  \n\n\nDaily Quality Control  \n\n\nMonthly Quality Control  \n\n\nAnnual Quality Control  \n\n\n\n\n\n\nSystems\n\n\n\n\nWet Well / Intake  \n\n\nRaw Water Pumps  \n\n\nRaw Water Transmission Main    \n\n\nAlum Chemical Feed System  \n\n\nPolymer Chemical Feed System",
+            "text": "General Concepts\n\n\n\n\nOperator Math  \n\n\nOperator Chemistry  \n\n\nOperator Microbiology  \n\n\nFilling and Draining Tanks  \n\n\nFlow Rates  \n\n\nCoagulation  \n\n\nFlocculation  \n\n\nDisinfection with Chlorine  \n\n\nDisinfection with UV Light   \n\n\nPressure  \n\n\nPressure Transmitters  \n\n\nChemical Feed Pump  \n\n\nVertical Turbine Pump  \n\n\nCentrifugal Pump  \n\n\nWater Quality  \n\n\nRedundancy  \n\n\nFree Chlorine vs Total Chlorine  \n\n\nSCADA System  \n\n\n\n\nTasks\n\n\n\n\nRound\n\n\nDistribution Samples\n\n\nJanitorial  \n\n\nHandling phone calls from public  \n\n\n\n\nFilter Specific\n\n\n\n\nPreparing Filter to Operate\n\n\nTurning Off Filter  \n\n\nBackwashing Filter  \n\n\nFilter Operation\n\n\n\n\nChemical Feed Specific\n\n\n\n\nTransfer Chemicals from Bulk Tanks  \n\n\nAddressing Spills  \n\n\nHow to Determine Chemical Feed Pump Speed  \n\n\nChemical Feed Pump Calibration  \n\n\n\n\nValve Operation\n\n\n\n\nHydraulic Actuators  \n\n\nPneumatic Actuators  \n\n\nElectric Actuators  \n\n\n\n\nCompliance Monitoring\n\n\n\n\nTotal Coliform Rule\n\n\nFilter Backwash Rule  \n\n\nLead and Copper Rule  \n\n\nArsenic Rule  \n\n\nInterim Enhanced Surface Water Rule  \n\n\nLong Term 1 Enhanced Surface Water Treatment Rule  \n\n\nLong Term 2 Enhanced Surface Water Treatment Rule   \n\n\nStage 2 Disinfectants and Disinfection Byproducts Rule  \n\n\nWisconsin Department of Natural Resources NR Code  \n\n\n\n\nLab Specific Tasks\n\n\n\n\nMaking Agar  \n\n\nHazardous Waste  \n\n\nColilert Sample - Municipal Clients  \n\n\nColilert Sample - Private Client  \n\n\nProficiency Testing  \n\n\nQuantitray  \n\n\nFluoride Samples  \n\n\nDaily Quality Control  \n\n\nMonthly Quality Control  \n\n\nAnnual Quality Control  \n\n\nHeterotrophic Plate Count  \n\n\nMeasure Free Chlorine Residual  \n\n\nMeasure Total Chlorine Residual  \n\n\nMeasure pH\n\n\nMeasure Phosphate Residual  \n\n\nMeasure Alkalinity  \n\n\nMeasure Hardness  \n\n\nStormwater Analysis  \n\n\n\n\nSystems\n\n\n\n\nWet Well / Intake  \n\n\nRaw Water Pumps  \n\n\nRaw Water Transmission Main    \n\n\nBasins  \n\n\nSludge Removal  \n\n\nFilters  \n\n\nLow Lift Pumps  \n\n\nAlum Chemical Feed System  \n\n\nPolymer Chemical Feed System  \n\n\nFluoride Chemical Feed System  \n\n\nSodium Hypochlorite Feed System  \n\n\nPhosphate Feed System  \n\n\nPhosphate for Ammonia Carrier Water  \n\n\nAmmonia Feed System  \n\n\nUV Disinfection System  \n\n\nElectrical and Generator Systems  \n\n\nUPS  \n\n\n\n\nRegulators\n\n\n\n\nUS EPA  \n\n\nWI DNR  \n\n\nWI Department of Agriculture, Trade, and Consumer Protection\n\n\n\n\nWholesale Activity\n\n\n\n\nMequon Water Utility  \n\n\nWholesale Water Agreement  \n\n\nWholesale Water Conveyance Agreement  \n\n\n\n\nNorth Shore Water Commission\n\n\n\n\nCommission Meetings\n\n\nEmployee Handbook  \n\n\nWiki  \n\n\nJournal  \n\n\nGit Lab  \n\n\nRedbooth  \n\n\nWebsite  \n\n\n\n\nInformation Technology\n\n\n\n\nControllers  \n\n\nHMI / Database  \n\n\nEthernet  \n\n\nInternet  \n\n\nPhone System  \n\n\nComputers  \n\n\nSecurity System",
             "title": "Modules"
         },
         {
             "location": "/modules/#general-concepts",
-            "text": "Operator Math    Operator Chemistry    Operator Microbiology    Filling and Draining Tanks    Flow Rates    Coagulation    Flocculation    Disinfection with Chlorine    Disinfection with UV    Pressure    Pressure Transmitter    Chemical Feed Pump    Vertical Turbine Pump    Centrifugal Pump    Water Quality",
+            "text": "Operator Math    Operator Chemistry    Operator Microbiology    Filling and Draining Tanks    Flow Rates    Coagulation    Flocculation    Disinfection with Chlorine    Disinfection with UV Light     Pressure    Pressure Transmitters    Chemical Feed Pump    Vertical Turbine Pump    Centrifugal Pump    Water Quality    Redundancy    Free Chlorine vs Total Chlorine    SCADA System",
             "title": "General Concepts"
         },
         {
             "location": "/modules/#tasks",
-            "text": "Round  Distribution Samples  Janitorial",
+            "text": "Round  Distribution Samples  Janitorial    Handling phone calls from public",
             "title": "Tasks"
         },
         {
             "location": "/modules/#filter-specific",
-            "text": "Preparing Filter to Operate  Turning Off Filter    Backwashing Filter",
+            "text": "Preparing Filter to Operate  Turning Off Filter    Backwashing Filter    Filter Operation",
             "title": "Filter Specific"
         },
         {
+            "location": "/modules/#chemical-feed-specific",
+            "text": "Transfer Chemicals from Bulk Tanks    Addressing Spills    How to Determine Chemical Feed Pump Speed    Chemical Feed Pump Calibration",
+            "title": "Chemical Feed Specific"
+        },
+        {
+            "location": "/modules/#valve-operation",
+            "text": "Hydraulic Actuators    Pneumatic Actuators    Electric Actuators",
+            "title": "Valve Operation"
+        },
+        {
             "location": "/modules/#compliance-monitoring",
-            "text": "Total Coliform Rule  Filter Backwash Rule    Lead and Copper Rule    Arsenic Rule    Interim Enhanced Surface Water Rule    Long Term 1 Enhanced Surface Water Treatment Rule    Long Term 2 Enhanced Surface Water Treatment Rule     Stage 2 Disinfectants and Disinfection Byproducts Rule    Wisconsin Department of Natural Resources",
+            "text": "Total Coliform Rule  Filter Backwash Rule    Lead and Copper Rule    Arsenic Rule    Interim Enhanced Surface Water Rule    Long Term 1 Enhanced Surface Water Treatment Rule    Long Term 2 Enhanced Surface Water Treatment Rule     Stage 2 Disinfectants and Disinfection Byproducts Rule    Wisconsin Department of Natural Resources NR Code",
             "title": "Compliance Monitoring"
         },
         {
             "location": "/modules/#lab-specific-tasks",
-            "text": "Making Agar    Autoclave Waste    Colilert Sample - Municipal Clients    Colilert Sample - Private Client    Fluoride Samples    Daily Quality Control    Monthly Quality Control    Annual Quality Control",
+            "text": "Making Agar    Hazardous Waste    Colilert Sample - Municipal Clients    Colilert Sample - Private Client    Proficiency Testing    Quantitray    Fluoride Samples    Daily Quality Control    Monthly Quality Control    Annual Quality Control    Heterotrophic Plate Count    Measure Free Chlorine Residual    Measure Total Chlorine Residual    Measure pH  Measure Phosphate Residual    Measure Alkalinity    Measure Hardness    Stormwater Analysis",
             "title": "Lab Specific Tasks"
         },
         {
             "location": "/modules/#systems",
-            "text": "Wet Well / Intake    Raw Water Pumps    Raw Water Transmission Main      Alum Chemical Feed System    Polymer Chemical Feed System",
+            "text": "Wet Well / Intake    Raw Water Pumps    Raw Water Transmission Main      Basins    Sludge Removal    Filters    Low Lift Pumps    Alum Chemical Feed System    Polymer Chemical Feed System    Fluoride Chemical Feed System    Sodium Hypochlorite Feed System    Phosphate Feed System    Phosphate for Ammonia Carrier Water    Ammonia Feed System    UV Disinfection System    Electrical and Generator Systems    UPS",
             "title": "Systems"
+        },
+        {
+            "location": "/modules/#regulators",
+            "text": "US EPA    WI DNR    WI Department of Agriculture, Trade, and Consumer Protection",
+            "title": "Regulators"
+        },
+        {
+            "location": "/modules/#wholesale-activity",
+            "text": "Mequon Water Utility    Wholesale Water Agreement    Wholesale Water Conveyance Agreement",
+            "title": "Wholesale Activity"
+        },
+        {
+            "location": "/modules/#north-shore-water-commission",
+            "text": "Commission Meetings  Employee Handbook    Wiki    Journal    Git Lab    Redbooth    Website",
+            "title": "North Shore Water Commission"
+        },
+        {
+            "location": "/modules/#information-technology",
+            "text": "Controllers    HMI / Database    Ethernet    Internet    Phone System    Computers    Security System",
+            "title": "Information Technology"
         },
         {
             "location": "/about/",
