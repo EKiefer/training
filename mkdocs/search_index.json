@@ -27,13 +27,33 @@
         },
         {
             "location": "/modules/",
-            "text": "General Concepts\n\n\n\n\nOperator Math\n\n\nOperator Chemistry\n\n\nOperator Microbiology\n\n\n\n\n\n\nSystems\n\n\n\n\nWet Well / Intake  \n\n\nRaw Water Pumps  \n\n\nRaw Water Transmission Main    \n\n\nAlum Chemical Feed System  \n\n\nPolymer Chemical Feed System",
+            "text": "General Concepts\n\n\n\n\nOperator Math  \n\n\nOperator Chemistry  \n\n\nOperator Microbiology  \n\n\nFilling and Draining Tanks  \n\n\nFlow Rates  \n\n\nCoagulation  \n\n\nFlocculation  \n\n\nDisinfection with Chlorine  \n\n\nDisinfection with UV  \n\n\nPressure  \n\n\nPressure Transmitter  \n\n\nChemical Feed Pump  \n\n\nVertical Turbine Pump  \n\n\nCentrifugal Pump  \n\n\nWater Quality\n\n\n\n\nTasks\n\n\n\n\nRound\n\n\nDistribution Samples\n\n\nJanitorial\n\n\n\n\nFilter Specific\n\n\n\n\nPreparing Filter to Operate\n\n\nTurning Off Filter  \n\n\nBackwashing Filter  \n\n\n\n\nCompliance Monitoring\n\n\n\n\nTotal Coliform Rule\n\n\nFilter Backwash Rule  \n\n\nLead and Copper Rule  \n\n\nArsenic Rule  \n\n\nInterim Enhanced Surface Water Rule  \n\n\nLong Term 1 Enhanced Surface Water Treatment Rule  \n\n\nLong Term 2 Enhanced Surface Water Treatment Rule   \n\n\nStage 2 Disinfectants and Disinfection Byproducts Rule  \n\n\nWisconsin Department of Natural Resources  \n\n\n\n\nLab Specific Tasks\n\n\n\n\nMaking Agar  \n\n\nAutoclave Waste  \n\n\nColilert Sample - Municipal Clients  \n\n\nColilert Sample - Private Client  \n\n\nFluoride Samples  \n\n\nDaily Quality Control  \n\n\nMonthly Quality Control  \n\n\nAnnual Quality Control  \n\n\n\n\n\n\nSystems\n\n\n\n\nWet Well / Intake  \n\n\nRaw Water Pumps  \n\n\nRaw Water Transmission Main    \n\n\nAlum Chemical Feed System  \n\n\nPolymer Chemical Feed System",
             "title": "Modules"
         },
         {
             "location": "/modules/#general-concepts",
-            "text": "Operator Math  Operator Chemistry  Operator Microbiology",
+            "text": "Operator Math    Operator Chemistry    Operator Microbiology    Filling and Draining Tanks    Flow Rates    Coagulation    Flocculation    Disinfection with Chlorine    Disinfection with UV    Pressure    Pressure Transmitter    Chemical Feed Pump    Vertical Turbine Pump    Centrifugal Pump    Water Quality",
             "title": "General Concepts"
+        },
+        {
+            "location": "/modules/#tasks",
+            "text": "Round  Distribution Samples  Janitorial",
+            "title": "Tasks"
+        },
+        {
+            "location": "/modules/#filter-specific",
+            "text": "Preparing Filter to Operate  Turning Off Filter    Backwashing Filter",
+            "title": "Filter Specific"
+        },
+        {
+            "location": "/modules/#compliance-monitoring",
+            "text": "Total Coliform Rule  Filter Backwash Rule    Lead and Copper Rule    Arsenic Rule    Interim Enhanced Surface Water Rule    Long Term 1 Enhanced Surface Water Treatment Rule    Long Term 2 Enhanced Surface Water Treatment Rule     Stage 2 Disinfectants and Disinfection Byproducts Rule    Wisconsin Department of Natural Resources",
+            "title": "Compliance Monitoring"
+        },
+        {
+            "location": "/modules/#lab-specific-tasks",
+            "text": "Making Agar    Autoclave Waste    Colilert Sample - Municipal Clients    Colilert Sample - Private Client    Fluoride Samples    Daily Quality Control    Monthly Quality Control    Annual Quality Control",
+            "title": "Lab Specific Tasks"
         },
         {
             "location": "/modules/#systems",
