@@ -11,4 +11,7 @@ markdown_extensions:
 pages:
   - Home: index.md
   - Modules: modules.md
+  - General Concepts: 
+    - Operator Math: general_concepts/operator_math.md
+    - Operator Chemistry : general_concepts/operator_chemistry.md
   - About: about.md

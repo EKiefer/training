@@ -5,7 +5,7 @@ Date: 2/17/21017
 
 ## General Concepts
 
-* Operator Math  
+* [Operator Math](/general_concepts/operator_math.md)  
 * Operator Chemistry  
 * Operator Microbiology  
 * Filling and Draining Tanks  
@@ -23,6 +23,7 @@ Date: 2/17/21017
 * Redundancy  
 * Free Chlorine vs Total Chlorine  
 * SCADA System  
+* Trending  
 * General Expectations of Operator  
 * Recordkeeping  
 
