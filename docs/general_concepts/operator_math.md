@@ -52,14 +52,16 @@ Getting back to our simple example, here is how you would proceed.
 In this case:
 
 $$\frac {1}{2} \times \left(\frac {2}{2}\right) = \frac{2}{4}$$
+
 $$\frac {2}{4} + \frac {1}{4} = \frac {3}{4}$$
 
 #### Multiplying and Dividing  
 
 When multiplying and dividing, you proceed in the following manner:  
 
-$$\frac {a}{b} \times \frac{c}{d} = \frac {a \times c}{b \times d}$$
-$$\frac {a}{b} \div \frac{c}{d} = \frac {a}{b} \times \frac{d}{c} = \frac {a \times d}{b \times c}$$ 
+$$\frac {a}{b} \times \frac{c}{d} = \frac {a \times c}{b \times d}$$  
+
+$$\frac {a}{b} \div \frac{c}{d} = \frac {a}{b} \times \frac{d}{c} = \frac {a \times d}{b \times c}$$   
 
 Using numbers instead of variable, consider the following expression:
 
@@ -89,8 +91,11 @@ To determine the average, add up all of the values to determine the sum. Divide 
 For instance, let's say you have the following chlorine residuals.
 
 $$(2.1, 2.5, 2.3, 2.7)$$
+
 $$Sum\,of\,Values = 2.1 + 2.5 + 2.3 + 2.7 = 9.6$$
+
 $$Number\,of\,Samples = 4$$
+
 $$Average = \frac {Sum\,of\,Values}{Number\,of\,Samples} = \frac {9.6}{4} = 2.4$$
 
 ### Max  

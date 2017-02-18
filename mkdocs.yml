@@ -6,11 +6,13 @@ site_name: NSWC Training
 theme: material
 theme_dir: theme
 extra_javascript: 
-    - http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+  - mathjax-config.js
+  - http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 markdown_extensions:
   - admonition:
   - toc:
-  - mdx_math:
+  # - mdx_math:
+  - pymdownx.arithmatex:
 pages:
   - Home: index.md
   - Modules: modules.md
