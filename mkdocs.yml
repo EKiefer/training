@@ -5,9 +5,12 @@ site_author: Eric Kiefer
 site_name: NSWC Training
 theme: material
 theme_dir: theme
+extra_javascript: 
+    - http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 markdown_extensions:
   - admonition:
   - toc:
+  - mdx_math:
 pages:
   - Home: index.md
   - Modules: modules.md

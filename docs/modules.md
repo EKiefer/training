@@ -6,7 +6,7 @@ Date: 2/17/21017
 ## General Concepts
 
 * [Operator Math](/general_concepts/operator_math.md)  
-* Operator Chemistry  
+* [Operator Chemistry](/general_concepts/operator_chemistry.md)  
 * Operator Microbiology  
 * Filling and Draining Tanks  
 * Flow Rates  
