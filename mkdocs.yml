@@ -6,8 +6,9 @@ site_name: NSWC Training
 theme: material
 theme_dir: theme
 extra_javascript: 
-  - mathjax-config.js
-  - http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+  # - mathjax-config.js
+  - https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML
+  # - http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 markdown_extensions:
   - admonition:
   - toc:
