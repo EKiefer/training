@@ -11,8 +11,8 @@ extra_javascript:
 markdown_extensions:
   - admonition:
   - toc:
-  # - mdx_math:
-  - pymdownx.arithmatex:
+  - mdx_math:
+  # - pymdownx.arithmatex:
 pages:
   - Home: index.md
   - Modules: modules.md
