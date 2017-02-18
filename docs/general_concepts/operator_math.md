@@ -9,13 +9,17 @@ The type of math that is commonly used by plant staff includes basic statistics 
 
 ## Math Concepts  
 
-All operators need to understand basic math principles. Wihout exception, operators need to understand how the following math concepts:
+All operators need to understand basic math principles. As a prerequisite, operators need to understand how the following math concepts:
 
 * addition  
 * subtraction  
 * multiplication  
 * division  
+
+Operators also need to understand the following concepts:
+
 * fractions  
+* statistics  
 * unit analysis  
 * conversion between fractions and decimal equivalent  
 * rounding  
@@ -72,8 +76,7 @@ $$\frac {2}{3} \times \frac{4}{7} = \frac {2 \times 4}{3 \times 7} = \frac {8}{2
 For more information, visit this [Khan Academy website.](https://www.khanacademy.org/math/arithmetic-home/arith-review-fractions)
 
 
-
-## Statistics  
+### Statistics  
 
 Statistics is a branch of mathematics dealing with the collection, analysis, interpretation, presentation, and organization of data. In applying statistics to operations, we first need to select the applicable data and the select the statistical model.
 
@@ -84,7 +87,7 @@ In most cases, we select all of the measurements (i.e. chlorine residual) taken 
 * Min  
 * Range  
 
-### Average
+#### Average
 
 To determine the average, add up all of the values to determine the sum. Divide the sum of values by the number of samples to get the average.
 
@@ -98,19 +101,19 @@ $$Number\,of\,Samples = 4$$
 
 $$Average = \frac {Sum\,of\,Values}{Number\,of\,Samples} = \frac {9.6}{4} = 2.4$$
 
-### Max  
+#### Max  
 
 The max is the greatest value in a collection of measurements.
 
 $$Max = 2.7$$
 
-### Min  
+#### Min  
 
 The min is the smallest value in a collection of measurements.
 
 $$Min = 2.1$$
 
-### Range  
+#### Range  
 
 Range is the difference between the max and the min.
 
@@ -118,6 +121,47 @@ Use the numbers in this section:
 
 $$Range = Max - Min = 2.7 - 2.1 = 0.6$$
 
+### Unit Analysis  
+
+It is important to understand units and how they apply to measurements and observations. For instance, a measurement of 2.3 ppm of free chlorine residual can be expressed as the following:
+
+$$2.3 \frac {part}{million\,parts}$$  
+
+or equivalently:
+
+$$2.3 \frac {milligrams}{liter}$$  
+
+Note: one "part" is a milligram. There are 1000 milligrams (mg) in a gram. Water weighs 1 gram (g) per milliliter. There are a thousand milliliters (mL) in a liter (L). Look at the following derivation.
+
+$$\require{cancel}$$
+$$\frac{mg}{L} = \frac{mg}{\cancel L} \times \frac{\cancel L}{1000 \cancel {mL}} \times \frac{\cancel {ml}}{\cancel g} \times \frac{\cancel g}{1000 mg}$$
+
+$$\frac{mg}{L} = \frac {mg}{1000 \times 1000\,mg} = \frac{mg}{1,000,000 mg} = \frac {part}{million\,parts}$$  
+
+*Note: This assumes that 1 mL equals 1 g. This is true for pure water. You can make this assumption for any chemical... just note that as you get closer to a pure chemical, this assumption fails.*  
+
+Unit analysis is important when you need to convert units. For example, if you a pump running at 1000 gallons per minute (GPM), you need unit analysis to convert GPM to MGD.  
+
+### Conversion Between Fractions and Decimal Equivalent  
+
+Every fraction can be expressed as a decimal, and vice versa. For example, take the number 0.125.
+
+$$0.125 = \frac{125}{1000} = \frac{1}{8}$$  
+and take the fraction \(5/16\):  
+$$\frac {5}{16} = 0.3125$$  
+
+### Rounding  
+
+Numbers in base 10 (the numbers we are used to using) are composed of digits that represent different values of 10. Look at the following number: 
+
+$$124.17$$
+$$\underline{hundreds}\,\underline{tens}\,\underline{ones}\,. \underline {tenths}\,\underline {hundredths}$$
+
+* If you round to the nearest tenth, the answer is \(124.2\).  
+* If you round to the nearest ten, the answer is \(120\).  
+* If you round to the nearest hundred, the answer is \(100\).  
+
+After you identify what digit you are rounding to, you look at the next digit (to the right) and determine if that number is 5 or more. If the answer is yes, then you increase the digit you are rounding to by one... and you drop all of the digits to the right. If NOT, then you don't change that digit and you drop all of the digits to the right.
 
 ___
 

@@ -5,13 +5,29 @@ Date: 2/17/2017
 
 # Chemistry
 
+Operators need to understand basic chemistry in order to be a successful operator. This section discusses some of the most important topics an operator must know.
+
+## Acids & Bases  
+
+Acids and bases 
+
+## Concentration & Dillution  
+
+## Periodic Table of Elements  
+
+## Density  
+
+## Titration  
+
+## Glassware, Equipment, and Analytical Equipment  
+
 ## Working with Numbers
 
-Precision and accuracy are important concepts in the chemistry. You need to be careful when you work with numbers of different precisions.  
+Precision and accuracy are important concepts in chemistry. You need to be careful when you work with numbers of different precisions.  
 
 For instances, let's say you want to add a very precise number (i.e. 2004.214 g) to a number of low precision (i.e. 2000 g). How do you report the sum? 
 
-Befre we can answer that, you need to understand Significant Digits.
+Before we can answer that, you need to understand significant digits.
 
 ### Significant Digits
 
@@ -19,7 +35,7 @@ There are three rules on determining how many significant figures are in a numbe
 
 * Non-zero digits are always significant.  
 * Any zeros between two significant digits are significant.  
-*  A final zero or trailing zeros in the decimal portion ONLY are significant.
+* A final zero or trailing zeros in the decimal portion ONLY are significant.
 
 Please remember that, in science, all numbers are based upon measurements (except for a very few that are defined). Since all measurements are uncertain, we must only use those numbers that are meaningful.  A common ruler cannot measure something to be 22.4072643 cm long. Not all of the digits have meaning (significance) and, therefore, should not be written down. In science, only the numbers that have significance (derived from measurement) are written.
 
@@ -39,12 +55,13 @@ While it is true the sum is 2.275, the value should reflect the reliability of t
 
 #### Multiplying and Dividing
 
-In mathematical operations involving significant figures, the answer is reported in such a way that it reflects the reliability of the least precise operation. Let's state that another way: a chain is no stronger than its weakest link. An answer is no more precise that the least precise number used to get the answer. Let's do it one more time: imagine a team race where you and your team must finish together. Who dictates the speed of the team? Of course, the slowest member of the team. Your answer cannot be MORE precise than the least precise measurement. 
+In mathematical operations involving significant figures, the answer is reported in such a way that it reflects the reliability of the least precise operation. Let's state that another way: a chain is no stronger than its weakest link. An answer is no more precise that the least precise number used to get the answer. Let's do it one more time: imagine a team race where you and your team must finish together. Who dictates the speed of the team? Of course, the slowest member of the team. Your answer cannot be MORE precise than the least precise measurement.  
+
 The following rule applies for multiplication and division:
 
 The LEAST number of significant figures in any number of the problem determines the number of significant figures in the answer.
 
-This means you MUST know how to recognize significant figures in order to use this rule. 
+This means you MUST know how to recognize significant figures in order to use this rule.  
 Example #1: 2.5 x 3.42.
 
 The answer to this problem would be 8.6 (which was rounded from the calculator reading of 8.55). Why?
