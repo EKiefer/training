@@ -26,7 +26,7 @@ Operators also need to understand the following concepts:
 
 ### Fractions  
 
-There are many cases when operators need to work with fractions. For instance, when dealing with flow rates, operators need to remember that a flow rate such as 3.0 million gallons per day (MGD) can be written as:  
+There are many cases when operators need to work with fractions. For instance, when dealing with flow rates, operators need to remember that a flow rate such as 3.0 million gallons per day (MGD) can be written as a fraction:  
 
 $$3.0 \frac {Million\,Gallons}{Day}$$  
 
@@ -34,7 +34,7 @@ This is useful to know if you are trying to add flow rates when units are not eq
 
 $$300 \frac {Gallons}{Minute} + 3.0 \frac {Million\,Gallons}{Day}$$
 
-As it is written, you cannot add these 2 fractions until you convert the units so that the units are the same.
+As it is written, you cannot add these 2 fractions until you convert the units so that the units are the same. We'll come back to solving this at the very [end of the module](/general_concepts/operator_math.md#final-words).  
 
 #### Adding and Subtracting
 
@@ -162,6 +162,25 @@ $$\underline{hundreds}\,\underline{tens}\,\underline{ones}\,. \underline {tenths
 * If you round to the nearest hundred, the answer is \(100\).  
 
 After you identify what digit you are rounding to, you look at the next digit (to the right) and determine if that number is 5 or more. If the answer is yes, then you increase the digit you are rounding to by one... and you drop all of the digits to the right. If NOT, then you don't change that digit and you drop all of the digits to the right.
+
+## Final Words
+
+Let's go back to this problem:
+
+$$300 \frac {Gallons}{Minute} + 3.0 \frac {Million\,Gallons}{Day}$$ 
+
+The first step is to get the units to match up.
+
+$$300 \frac {\cancel {Gallons}}{\cancel {Minute}} \times \frac {1 Million\,Gallons}{1,000,000 \cancel {Gallons}} \times \frac {1,440 \cancel {Minutes}}{Day} =$$
+$$0.432 \frac {Million\,Gallons}{Day}$$  
+
+Then the fractions need to be added.
+
+$$0.432 \frac {Million\,Gallons}{Day} + 3.0 \frac {Million\,Gallons}{Day} =$$
+
+$$3.432 \frac {Million\,Gallons}{Day}$$
+
+*Note: In Operator Chemistry we discuss significant digits. This number should be reported as 3.4 MGD if we take significant digits into consideration.
 
 ___
 

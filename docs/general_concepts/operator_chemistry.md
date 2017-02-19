@@ -3,13 +3,59 @@ Author: Eric Kiefer
 Date: 2/17/2017
 ---
 
-# Chemistry
-
+## Chemistry  
 Operators need to understand basic chemistry in order to be a successful operator. This section discusses some of the most important topics an operator must know.
 
 ## Acids & Bases  
 
-Acids and bases 
+Acids and bases are used in our treatment process. It is important to understand the basic properties of these chemicals so that you can safely handle them and predict how they will react with other chemicals.
+
+Acids have a pH below 7. Bases have a pH above 7. Typically, most chemicals or solutions will have a pH within the range of 0 to 14.
+$$\require{mhchem}$$
+
+Before we can discuss the meaning of pH, you must first understand some chemical properties of water (\(\ce{H2O}\)). One of them is that water is in equilibrium with hydronium and hydroxyl ions depicted in the reaction shown below.
+
+$$\ce{H2O_{(l)} \rightleftharpoons H^+_{(aq)} + OH^{-}_{(aq)}}$$
+
+Note: \(H^+\) is shorthand for \(\ce{H3O^+}\). The proton ion \(H^+\) associates with water molecule.
+
+Water (on the left) is in equilibrium with \(H^+\) (hydronium) and \(OH^-\) (hydroxyl) ions. This means that water is dynamic; it is constantly converting between water and its parts. Other chemicals behave in the same manner.
+
+You can measure how many \(H^+\) are in solution. This is typically done with several electrodes. In the probe shown in the image below, there is both a reference electrode and a pH electrode. The pH electrode has a glass bulb and is inserted into the solution that needs to be measured. The reference electrode is inside the body of the probe.
+
+![Typical Probe](../img/pHmeter.png)
+
+When you insert the pH probe into a solution, an electrial potential will develop across the pH electrode (outside electrode vs inside electrode). The more \(H^+\) ions in solution, the greater the potential. When you compare this potential to the potential of the reference electrode, you can determine how many \(H^+\) ions are in solution. As it turns out, the relationship between potential and pH is -59.18 mV/pH.
+
+So, what exactly is pH? 
+
+When you measure pH, you are measuring the concentration of \(H^+\) ions. However, there are a wide range of \(H^+\) ions that are typically observed. Instead of reporting a value of 0.0000007 moles / L or 0.1 moles / L of hydronium ions, is more convient to report and use the log of concentration using the following equation.
+
+$$pH = -log\ce{[H^{+}]}$$
+
+pH | \(\ce{[H^{+}]}\)
+------------ | ------------- 
+0 | 1 
+1 | 0.1 
+2 | 0.01
+3 | 0.001
+4 | 0.0001
+5 | 0.00001
+6 | 0.000001
+7 | 0.0000001
+8 | 0.00000001
+9 | 0.000000001
+10 | 0.0000000001
+11 | 0.00000000001
+12 | 0.000000000001
+13 | 0.0000000000001
+14 | 0.00000000000001
+
+Increasing the pH by 1, decreases the concentration of hydronium ions by 10.  
+
+For more information about what "log" means, visit the [Kahn Academy website](https://www.khanacademy.org/math/algebra2/exponential-and-logarithmic-functions/introduction-to-logarithms/v/logarithms).
+
+For more information about acids, bases, and pH, visit the following [Kahn Academy video](https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/arrhenius-definition-of-acids-and-bases). There are a number of videos in this series.
 
 ## Concentration & Dillution  
 

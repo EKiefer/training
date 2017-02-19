@@ -336,6 +336,13 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#final-words" title="Final Words" class="md-nav__link">
+    Final Words
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -498,6 +505,13 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#final-words" title="Final Words" class="md-nav__link">
+    Final Words
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -527,7 +541,7 @@
 <li>rounding  </li>
 </ul>
 <h3 id="fractions">Fractions</h3>
-<p>There are many cases when operators need to work with fractions. For instance, when dealing with flow rates, operators need to remember that a flow rate such as 3.0 million gallons per day (MGD) can be written as:  </p>
+<p>There are many cases when operators need to work with fractions. For instance, when dealing with flow rates, operators need to remember that a flow rate such as 3.0 million gallons per day (MGD) can be written as a fraction:  </p>
 <p>
 <script type="math/tex; mode=display">3.0 \frac {Million\,Gallons}{Day}</script>
 </p>
@@ -535,7 +549,7 @@
 <p>
 <script type="math/tex; mode=display">300 \frac {Gallons}{Minute} + 3.0 \frac {Million\,Gallons}{Day}</script>
 </p>
-<p>As it is written, you cannot add these 2 fractions until you convert the units so that the units are the same.</p>
+<p>As it is written, you cannot add these 2 fractions until you convert the units so that the units are the same. We'll come back to solving this at the very <a href="./#final-words">end of the module</a>.  </p>
 <h4 id="adding-and-subtracting">Adding and Subtracting</h4>
 <p>When the units are the same, you can proceed with basic math operations. Let's assume you are able to get the units the same, now what? Consider the following expression:</p>
 <p>
@@ -651,6 +665,24 @@ and take the fraction <script type="math/tex">5/16</script>:<br />
 <li>If you round to the nearest hundred, the answer is <script type="math/tex">100</script>.  </li>
 </ul>
 <p>After you identify what digit you are rounding to, you look at the next digit (to the right) and determine if that number is 5 or more. If the answer is yes, then you increase the digit you are rounding to by one... and you drop all of the digits to the right. If NOT, then you don't change that digit and you drop all of the digits to the right.</p>
+<h2 id="final-words">Final Words</h2>
+<p>Let's go back to this problem:</p>
+<p>
+<script type="math/tex; mode=display">300 \frac {Gallons}{Minute} + 3.0 \frac {Million\,Gallons}{Day}</script>
+</p>
+<p>The first step is to get the units to match up.</p>
+<p>
+<script type="math/tex; mode=display">300 \frac {\cancel {Gallons}}{\cancel {Minute}} \times \frac {1 Million\,Gallons}{1,000,000 \cancel {Gallons}} \times \frac {1,440 \cancel {Minutes}}{Day} =</script>
+<script type="math/tex; mode=display">0.432 \frac {Million\,Gallons}{Day}</script>
+</p>
+<p>Then the fractions need to be added.</p>
+<p>
+<script type="math/tex; mode=display">0.432 \frac {Million\,Gallons}{Day} + 3.0 \frac {Million\,Gallons}{Day} =</script>
+</p>
+<p>
+<script type="math/tex; mode=display">3.432 \frac {Million\,Gallons}{Day}</script>
+</p>
+<p>*Note: In Operator Chemistry we discuss significant digits. This number should be reported as 3.4 MGD if we take significant digits into consideration.</p>
 <hr /> 
                         </article>
                         <div id="disqus_thread"></div>
