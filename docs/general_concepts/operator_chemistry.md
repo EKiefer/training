@@ -6,6 +6,14 @@ Date: 2/17/2017
 ## Chemistry  
 Operators need to understand basic chemistry in order to be a successful operator. This section discusses some of the most important topics an operator must know.
 
+* Acids & Bases  
+* Concentration & Dillution  
+* Periodic Table of Elements  
+* Density   
+* Titration    
+* Glassware, Equipment, and Analytical Equipment  
+* Working with Numbers  
+
 ## Acids & Bases  
 
 Acids and bases are used in our treatment process. It is important to understand the basic properties of these chemicals so that you can safely handle them and predict how they will react with other chemicals.
@@ -29,7 +37,7 @@ When you insert the pH probe into a solution, an electrial potential will develo
 
 So, what exactly is pH? 
 
-When you measure pH, you are measuring the concentration of \(H^+\) ions. However, there are a wide range of \(H^+\) ions that are typically observed. Instead of reporting a value of 0.0000007 moles / L or 0.1 moles / L of hydronium ions, is more convient to report and use the log of concentration using the following equation.
+When you measure pH, you are measuring the concentration of \(H^+\) ions. However, there are a wide range of \(H^+\) ions that are typically observed. Instead of reporting a value of 0.0000007 moles / L or 0.1 moles / L of hydronium ions, is more convient to use the log of concentration.
 
 $$pH = -log\ce{[H^{+}]}$$
 
@@ -51,7 +59,7 @@ pH | \(\ce{[H^{+}]}\)
 13 | 0.0000000000001
 14 | 0.00000000000001
 
-Increasing the pH by 1, decreases the concentration of hydronium ions by 10.  
+Increasing the pH by 1, decreases the concentration of hydronium ions by a factor of 10.   
 
 For more information about what "log" means, visit the [Kahn Academy website](https://www.khanacademy.org/math/algebra2/exponential-and-logarithmic-functions/introduction-to-logarithms/v/logarithms).
 
@@ -59,7 +67,15 @@ For more information about acids, bases, and pH, visit the following [Kahn Acade
 
 ## Concentration & Dillution  
 
+Often, chemicals are purchased in a concentrated form. A solution of a weaker concentration is made by mixing concentrated chemical with another chemical (in almost all cases, water).
+
+The equation we can use 
+
+
+
 ## Periodic Table of Elements  
+
+[Periodic Table](http://www.ptable.com/)
 
 ## Density  
 

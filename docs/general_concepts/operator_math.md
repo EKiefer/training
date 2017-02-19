@@ -23,6 +23,9 @@ Operators also need to understand the following concepts:
 * unit analysis  
 * conversion between fractions and decimal equivalent  
 * rounding  
+* area  
+* volume  
+* rates
 
 ### Fractions  
 
@@ -162,6 +165,24 @@ $$\underline{hundreds}\,\underline{tens}\,\underline{ones}\,. \underline {tenths
 * If you round to the nearest hundred, the answer is \(100\).  
 
 After you identify what digit you are rounding to, you look at the next digit (to the right) and determine if that number is 5 or more. If the answer is yes, then you increase the digit you are rounding to by one... and you drop all of the digits to the right. If NOT, then you don't change that digit and you drop all of the digits to the right.
+
+### Area  
+
+Area allows us to better describe and measure 2 dimensional shapes. For instance, the area of a rectangle is the length multiplied by width. If this rectangle represents a wall, knowing the area could tell us how much paint is required to cover it.   
+
+[Click here for more information about area.](https://www.khanacademy.org/math/basic-geo/basic-geo-area-and-perimeter).  
+
+### Volume  
+
+Volume allows us to better describe and measure properties of 3 dimensional shapes. Volume is very relevant to the treatment process; we are constantly monitoring the volume of various liquids that are stored in our tanks.
+
+In most cases, we would need to measure volume if we needed to determine how many gallons of water will fit in a rectangular chamber. In this case:
+
+$$Volume=Length \times Width \times Height$$
+
+To convert from volume in cubic feet to gallons, use the following conversion:
+
+$$7.48\,gallons = 1\,cubic\,foot$$
 
 ## Final Words
 
