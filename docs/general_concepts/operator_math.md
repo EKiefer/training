@@ -9,7 +9,7 @@ The type of math that is commonly used by plant staff includes basic statistics 
 
 ## Math Concepts  
 
-All operators need to understand basic math principles. As a prerequisite, operators need to understand how the following math concepts:
+All operators need to understand basic math principles. As a prerequisite, operators need to understand the following math concepts which will be discussed in this module:
 
 * addition  
 * subtraction  
