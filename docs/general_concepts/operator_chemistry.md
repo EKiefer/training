@@ -67,17 +67,47 @@ For more information about acids, bases, and pH, visit the following [Kahn Acade
 
 ## Concentration & Dillution  
 
-Often, chemicals are purchased in a concentrated form. A solution of a weaker concentration is made by mixing concentrated chemical with another chemical (in almost all cases, water).
+Often, chemicals are purchased in a concentrated form. A solution of a weaker concentration is made by mixing a concentrated chemical with water (or another chemical).
 
-The equation we can use 
+The equation which is often very helfpul to us is:
 
+$$v_1c_1=v_2c_2$$
+
+where \(v_1\) is volume of the undilluted chemical, \(c_1\) is the concentration of undilluted chemical, \(v_2\) is the volume of the dilluted chemical, and \(c_2\) is the concentration of the dilluted chemical.
+
+Let's say we want to make 100 mL of 5% hydrochloric acid using concentrated hydrochloric acid that has a strength of 37%.
+
+In this case, we need to solve for \(v_2\).
+
+$$v_1=\frac{v_2c_2}{c_1}=\frac{100 mL \times 5\%}{37\%}=14mL$$
+
+So 14 mL of concentrated hydrochloric acid should be dilluted to 100 mL using water (86 mL of water) to make 100 mL of 5% hydrochloric. 
+
+!!! Caution
+	Never add water to concentrated acid. The solution can heat up too fast and splash out of vessel. Always add concentrated acid to water.
 
 
 ## Periodic Table of Elements  
 
-[Periodic Table](http://www.ptable.com/)
+Everything in the universe is made out of atoms. Atoms exhibit specific properties based on how many electrons, protons, and neutrons are in the atom. Specifically, the number of protons in an atom determines what element it is. For example, an atom with 12 protrons is called magnesium. In other words, an atom is a single particle of an element.
+
+All of the known elements are typically presented in what is called a periodic table of elements.
+
+[Visit this link to see an interactive periodic table.](http://www.ptable.com/)
+
+Everything in the known universe is made out of these elements, including everyday chemicals. Elements are a special type of chemical; they consist of just one type of atoms.
+
+Compounds are a mixture of atoms that are bonded together at the atomic level. One example is table salt; it is made out of sodium (\(Na\)) and chorine (\(Cl\)) atoms. Table salt has unique properties--it does not exhibit properties of chlrine nor does it exhibit the properties of sodium.
+
+*Hint: you can use the periodic table to read chemical formulas. For instance, the chemical formula for water is \(\ce{H_2O}\); one molecule is made out of 2 hydrogen atoms (\(H\)) and 1 oxygen (\(O\)) atom.*
 
 ## Density  
+
+Density is a property of a chemical that describes how much mass is contained in a unit of volume. For instance, the density of water is 1 gram per 1 mL of water. Alternatively, the density of water can be expressed as 8.34 lbs per gallon (approximately true around at "normal" water temperatures).
+
+The denser the material, the "heavier" it is. Consequently, denser materials sink to the bottom and less dense materials float to the top. This is why ice forms on top of a lake instead of sinking to the bottom; ice is less dense than water.
+
+Sometimes, density is expressed as "specific gravity". This a ratio of densities: the density of a chemical compared to the density of pure water. For example, if the specific gravity of a chemical is 1.2, this means it has a density of \(1.2 \times 8.34 \frac {lbs}{gal}= 10 \frac {lbs}{gals}\).
 
 ## Titration  
 
